@@ -1,0 +1,1020 @@
+{
+  "@context": "http://iiif.io/api/presentation/3/context.json",
+  "id": "https://zillingworth.github.io/testing-ellision-tanya/annotations/testing-ellison-canvas-1-.json",
+  "type": "AnnotationPage",
+  "label": "",
+  "items": [
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-0.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Applause",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "299"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-1.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I think I would feel safer if I were trying to read my novel than trying to say something about that which i know very little, however, it might have the value of allowing you some insight into my way of thinking about the novel. First let me sketch certain assumptions concerning the nature of the novel in general which will give tonality to what I wish to say about the American Novel.  Let me begin by reminding you of a characteristic of the novel which seems so obvious that it's seldom mentioned and which, because it is ignored, tends to make most discussions of fiction rather abstract. \"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "312"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-2.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And it's this. By it's nature the novel seeks to communicate a vision of experience. The key word there is communicate. Thus, whenever it may, whatever else it might be--and it certainly strives to be a work of art-- it is basically a form of communication. It's medium of communication, like that all of the fictive arts, is a familiar experience of a particular people within a particular society, and indeed the novel can communicate with us only by appealing to that which we know, uh, that is our body of common assumptions, and through this it can proceed to reveal to us that which we do not know or it can affirm that which we believe to be reality.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "372"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-3.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Thus, the novel in a certain sense of the term is rhetorical. I know that's a bad word these days but the novel comes in for some of it. It's rhetorical because it seeks to persuade us to accept the novelist's view of that experience which we have shared with him and through which we become creatively involved in the illusionary and patterned depiction of life which we call fictional art. Of course, we repay the novelist in terms of our admiration to the extent that he justifies and intensifies our sense of the real.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "434"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-4.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Secondly, I believe that the basic function of the novel, and that function which gives it its form and which brought it into being, is that of seizing from the flux and flow of our daily living those abiding patterns of experience, which through their repetition, help to form our awareness of the nature of human life and from which man's sense of his self and his value are--I'm sorry, are seized.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "483.37"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-5.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"It is no accident that the novel emerges during the 18th century and becomes most fully conscious of itself as an art form during the 19th century. For before, when God was in his Heaven and man was relatively at home in what seemed to be a stable and well-order world and if not well-ordered, at least stable, there was no need for a novel. Men agreed as to what constituted reality. They were gripped by the illusion of a social and metaphysical stability and social change--change, another keyword in the understanding of the novel--was not a problem.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "524.61"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-6.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"But when the middle class broke the feudal synthesis, the novel came into being and emerged, I believe, in answer to the vague awareness which grew in men's minds that reality had cut loose from its base and that new possibilities of experience and new forms of personality had been born into the world. Class lines were beginning to be liquidated and to be reformed. New types of men arose out of a whirling reality which now revealed itself to be Protean in its ability to rapidly change its appearance. Perhaps the novel answers man's fearless awareness that behind the facade of social organization, manners, customs, rituals, and institutions, there lies only chaos.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "571.44"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-7.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"For man knows despite the certainties which his social organizations serve to give him that he did not create the universe and that the universe is not at all concerned with human institutions and values and perhaps even what we call sanity is no more than a mutual agreement among man as to the nature of reality, a very tenuous definition of the real which allows us some certainty and stability in our dedicated task of humanizing the universe.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "635.3"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-8.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now we don't like to think through such problems except through disciplines, through mirrors. They're like Medusa. We can only confront it by looking back through the polished shield. I guess that's Mr. Hyman's armed vision to an extent. We try to look at these problems, this problem of the instability of human life through the disciplines of philosophy, psychology, and of course art.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "672.96"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-9.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "Because while man can live in chaos he cannot accept it.",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "709"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-10.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now, during the war, I observed how dangerous it could be to even to pretend that one is insane. Because I observed certain people who in their effort to be released from military service, feigned certain forms of insanity. Well, they were successful, but they played a joke on themselves because several of these people are definitely, mildly insane. They have broken that very fine line of the rational and they're thrown outside. They put themselves outside of that agreement, which we have made in order to ensure our minds against that overwhelming threat of the universe, which is irrational and utterly unconcerned. In brief, we know that nature can crush man and that arts and techniques are but magic objects in our quest for certainty.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "714.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-11.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"If you cross the North Atlantic as I had to do very often during the war in a storm in a ship, sometimes good-sized ships, you get a very sharp awareness of how frail society is and how fragile are these things in which we put our trust. Fortunately, they always got us there and back. But when it's bouncing around out there you begin to feel, well, human life is quite frail indeed.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "777.04"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-12.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"But let us return here to the novel as a functional form. It is usually associated, the novel is, with the 19th century and the middle class for its during the 19th century and the ascendancy of the middle class that it achieved its highest consciousness as a formal structure. It was very vibrant and alive and because this rising class accepted the dichotomies of good and evil, dark and light, all the ambiguous stuff of life, the novel was quite an alive form of communication.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "818.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-13.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"If we remember Bill Sikes made possible Pip's great expectations. That is, the good and the bad were seen as being entwined. Possibility, and it was a time of possibility because it was a time of great social changes and because social change always implies certain terrors. We had at the time a class, the middle class, which was quite willing to expose itself to the terrors of chaos in order to seize the prize of possibility.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "871.78"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-14.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now, during those times, men who viewed freedom not simply in terms of a necessity, but in terms of possibility and it was the novel which could communicate this new found sense of possibility, of freedom and necessity, this new sense of mystery, this awareness of the inhumanity of nature and the universe and most important, it could forge images of man's ability to say no to chaos and affirm him in his strength to humanize the world, to create that state of human certainty and stability and, yes, and love which we like to call the good life.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "921"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-15.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now, I have stressed the specific nature of the novel.That is that it sought to communicate a particular experience shared by a particular people and a particular society and I'd like to stress that again. There is, except for purposes of classification, no abstract novel nor is there a universal novel, except in the most abstract sense. Any universality which the novel achieves must be achieved through the depiction of a specific experience, specific people. Thus, there is no, there is a Spanish novel, a Russian novel, a French novel, an English novel, and an American novel and so forth dealing with particular individuals and with specific complex, the specific complexities of experience as found within these various cultures.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "964.8"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-16.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"There's been a lot of confusion about this problem, so much so that in the 18th century most of our novels were really imitations of English novels. We still thought that we were a colony of England and we were trying to copy the forms of English society and we know that as late as Henry James and his work on Hawthorne he goes into what was missing in terms of our customs, manners, and institutions, which made the stuff of the English novel. Well, it's my opinion that there is direct relationship between the form of a society and the form of a novel which grows out of that society. I don't want to go into any elaboration of that idea but it does underly what I think to be the ground out of which the American novel came.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1031.4"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-17.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"We didn't begin to have an American novel of course until writers, and in fact until the audience of the writers as well grew conscious that there was something  different about the American experience. It was not English. We did not have the American, I mean the English institutions. In fact, we had no need for them. And if we had need for them, we could not create them here, because we didn't have the saw, the ships, the island. We didn't have any of those wonderful things, which made for the wonderful novels and plays and poetry. But we did have something else. We had a society dedicated to a conception of freedom, which was new and vibrant, from which the social unit was not that of class, or only class, but of national groupings. And though classes emerged they were and are still confused and cut across by the nature of our melting pot. That is a society made up of many backgrounds dragging with them many cultural conditions, folklore, and what not, a varied society made up of many many peoples and so forth.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1117.88"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-18.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"There was something else too. We had a body of ideology that was accepted and known, talked about, explicitly and implicitly by most Americans those who had been here and certainly by those immigrants who kept coming to swell the numbers and to help make this into a great nation. These ideas were of course the constitution, the bill of rights, and so forth. They were quite serious. A lot of people today don't take them so seriously now, but they were so serious that if we trace back and look at 19th century American fiction, we find that most of the great novels deal, in imaginative terms, of course, with this, these ideas as a background. They are the unstated assumptions. They are the ground of possibility. They are the conception of what we wanted to do and we find that, at least I think so, that such novelists as Melville and Hawthorne, and such writers and essayists as Thoreau and Emerson, poets and whatnot, were always concerned with the health of democracy. Now, they didn't do it in a narrow sociological way. I don't intend to imply that. Melville could take a ship and make that ship American society, man it with men who represented the various races of man, the various cultural traditions which could be found in an ideal American and he could project that in terms of overpoweringly artistic imagery and action. That is only the beginning of it, rather.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1227.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-19.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"We come to Twain and we find a split and it's this split, which allows us to get at what, I think, makes us feel so dissastisfied with the contemporary American novel. And it comes in Huckleberry Finn. Huckleberry Finn, of course, is, has been, and was for years considered a child's book, a boy's book. Actually it's one of the greatest of American novels and a moral drama and again we find it dealing with the problem of democracy, what is good about it, what is bad about it, where have we failed in living up to the American dream, where have we failed to live up to the ideals of democracy.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1389.73"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-20.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I might interrupt here to say that the constitution, the bill of rights, in short, the ideals, might take the role, might be called the myth that was being accepted and rejected here last night. The actions or the failure of actions to make that myth manifest might be called the rite, the ritual, which was accepted or ignored here last night, but that was part of the conscience concern of Twain. [paper shuffling].\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1456.43"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-21.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "paper shuffling",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1506.62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-22.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And just to keep it a bit specific, let us recall that, the point in the novel when N-- Jim has been stolen by the king and the duke and has been sold, which presents Huckleberry Finn with the problem of recovering Jim. Two ways were open to him. He could rely upon his own ingenuity to help Jim escape or he could write to the widow Watson, requesting reward money to have Jim returned to her. But there is a danger in this course, remember, since it's possible that the angry widow might sell Jim down the river into a harsher slavery, but the outcast Huck,  struggling to keep his peace with the community, decides that he'll write the letter and then he waivers.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1514.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-23.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "And I shall quote",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1576.01"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-24.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well, with this development, we have arrived at a key moment in the novel and by ironic reversal, we've arrived at a key moment in American literature. It's a pivotal moment announcing a change of direction in the plot and it is a reversal as well as a recognition scene like that in which Oedipus discovers his true identity wherein a new defintion of moral necessity is being formulated by Huckleberry Finn and by Mark Twain. Huck has struggled with a problem poised by the clash between property rights and humanism, between what the community considered the proper attitude toward an escaped slave and his knowledge, his, Huck's knowledge, of Jim's humanity, which he had gained through their adventures together as they floated down the river. I'm told that the river has been described as a symbol of moral consciousness and awareness, another fighting term for some people here.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1639.64"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-25.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "laughter",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1713.59"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-26.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Nevertheless, Huck has made his decision on the side of humanity and in this passage, Twain has stated the basic moral issue spinning around negroes and the white American democratic ethics, and it is a dramatization of the highest point of tension generated by the clash between the direct human relationships of the frontier and formulated in the myth of American democracy. That is, it clashes, and it is in class, in conflict with the inhuman, market-dominated relationship which have been fostered by, which were fostered by, the rising middle class.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1720.71"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-27.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well, what I'm trying to get at it is this Aside from the strict moral concern of Twain, you have, I'm sorry, aside from the concern with language, with the art of fiction, with depiction and so forth, you have this great moral concern. Now, the man who made Huckleberry Finn an important -- well, he didn't make it important but he made us aware of its importance for twentieth century writing--was Ernest Hemingway. And we have heard quoted very often, Mr. Hyman referred to it last night,  Hemingway's statement that when you read Huckleberry Finn, which he considers the fountainhead of modern American prose fiction, you must stop at that point where N Jim is stolen from the boys, because after that, Twain indulged himself in fakery.    The negro becomes a symbolism of the confusion of democratic ideals. Assuming that there is a connection between American life and the American novel -- Melville and Twain  they dying away of institutions that mark the emerging American society.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1774.2"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-28.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Well, here we have dramatized, I think, a disassociation of the American sensibility, which was to be enacted in terms of its future reduction, its lack of concern with moral issues, and in terms of technique itself. Hemingway could not see the implication of that part of the plot, which gives Huckelberry Finn its meaning unless we accept it as a boy's story. If Huck and Tom Sawyer had not made the effort at least to steal Jim free again, and it's important that they steal him free, that they be involved in guilt, in crime, in darkness, since it's a dark man. Chaos, terror, all of these line up behind the figure, the symbol of Jim.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1858.17"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-29.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Hemingway could not understand that this was a necessary completion of the action. He was ready to truncate it and many people have done so. They have failed to see that connection and thus Huckleberry Finn lost for many years its meaning. Well now, Hemingway, as we know, I don't have to do more than sketch it in is the father of all of us who tried to write in the twentieth century in the American society. He's done wonderful things with language. He has shown us much about Twain, much about Gertrude Stein, much about what could be done with words, shown us much about depicting facts, depicting actions in one thing or the other. And, I don't mean to imply that he is not a very moral man. He is. I think that his novels are very much concerned with what is good in life, not in an ethical sense, but what constitutes the good life and what makes for the bad life. But, in doing so, he found it necessary to reduce the American novel. The big themes are gone.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "1944.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-30.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now, get me. I don't mean to say that there was any prerequisite on the part of the American writer to write about negroes. I don't mean that at all. They represent value not because I say so, but because of our economy. We do have this sacred ground beneath us which declares that all men are equal and when we violate that, we must find some way of symbolizing it. And we have clustered that around the figure of the slave, the negro, as early we clustered it around the Indian and the Gypsy and so forth. These things run through American and English writing and have done so, I suppose, since the 18th Century.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2042.18"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-31.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"But what I'm trying to get at is this Assuming that there is this connection between American life and the form of its fiction. Twain, yes, and even more so, Melville, could get at the big theme, could get at the mystery of human relationships and of social change, he could get at the swiftness of development, the emergence and dying away of institutions, which mark the rapid emergence of the American nation, and of American society. He could get at that because he used a large frame. And I suppose there is some connection between this and his being a major novelist.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2098.06"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-32.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"But, it was with the twentieth century, after reconstruction, after the war, when we decided that we could no longer sustain the uncertainty of fighting this thing out. We had lost many people on both sides and we had made a shambles of many possibilities. We did, however, create others. Thank God. And we were tired. We were no longer willing to face the tragic implications of American life. And novelists, as I say, seemed to come into being in answer to the moods of society.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2161.41"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-33.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"We were no longer willing to face these problems. And being no longer willing, we got a novelist who could do, in terms of literature what we were doing in terms of our social living. We could develop techniques, developed a science, develop a great industrial empire and so forth but we could not deal with the complex problems of an American society in which all men were not free and in which all men were attempting to be free and in which some men were attempting to keep other men from being free. This was the reality and the myth lay elsewhere. And we were not prepared to deal with it.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2209.55"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-34.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"So our prose fiction went in the direction of experimentation, but it was an experimentation which while it gave birth to many wonderful technical discoveries, ways of writing, ways of seeing and feeling, of making the reader participate within the world of fiction, it could not make the American face the moral implications of his life. Which brings us down to today, I think, and very briefly.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2261.27"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-35.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"We've had a generation of imitators of Hemingway and, some good and some very poor. We've had a few other novelists like Steinbeck who went completely on the technical, experimental kick. But something had gone out of the experimentation and that was the will to dominate this complex reality. Then comes the thing of imitating European writing, being aware that European writing was important, being aware, through the European writers, that our novelists were important and finally we discover Faulkner. And there's a funny thing about Faulkner, we discover. That he experiments, he's been very busy. He can do all of the things as was pointed out this morning. He could do what Joyce did, sometimes with more success, because he was not the pioneer, but the second generation who could refine. He could write many-layered novels, which were full of change, which were full of conflict, but at the same time, which  dealt with this great moral problem of American life, centered around discrimination and so forth-- the unfreedom which lies within the land of freedom -- and he could do this so well that the very sharp reader could understand it and the very unsharp reader, the reader who was interested only in the realistic nature of things could also enjoy it.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2307.93"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-36.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Now Faulkner has been accused of being too vague, too obscure. I have never accepted that. I have always been able to read Faulkner and I've been able to understand him, perhaps because part of my background is Southern, or partly, I suppose, because I lie between the two traditions, between the two cultures, that of the south, that of the north, that of Europe, and that of America. Which reminds us that the American novel always functioned on one of its levels to document American reality and to describe the nature of the American. It tried to project an image of the American, which would serve to unify these varied national and cultural groups into something which could be accepted by us all. Now that is a problem, which has been unfinished. It was left unfinished consciously during the 19th century -- since the 20th century, well we have just failed to bother with it, except for this one man Faulkner, I believe -- who picked up the pieces, picked up where Mark Twain left off , kept the moral concern, was intent upon depicting a part of American life, which existed, which is important to us all, but of which we are not sufficiently aware.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2428.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-37.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"What I'm trying to say is this We assume that America is a known country. It is NOT a known country. If you go out to Oklahoma, as I have been recently, you'll find that people are different, that distance makes differences, that the air, the climate, the way of life. It's all a part of America. We all speak the same language, but it's not the same thing it's different. And part of the task of the novel is that of documenting this unknownness. As Mr. Simenon just pointed out, we are curious or should be curious about other Americans.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2546.97"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-38.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Fortunately, there is a change coming. In fact, there is a change at hand. We are no longer blaming one section of the country for the faults of the other section. We are all beginning to share in the responsibility for the country and I think the novelist, following Faulkner, is attempting to reach out and once more accept that responsibility. I will define it as a responsibility to make America known to Americans and to help forge the image of the American, which we usually assume to be represented by an Anglo Saxon of Protestant background, I suppose. Maybe in Boston it would be a Catholic, but actually we know that the American is many things, many many things and we are still, at least I am still puzzled to know what he is. I know that I am but just what I am is as much a mystery to me as the mystery of what Boston is or what Harvard is. I know it's a college. I've never been here before. Being around it, I see certain evidences of tradition, certain tone and--well other manifestations of the unknown, the mystery of American life.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2594.82"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-39.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Another thing which you become aware of when you go back to the provinces after living in the cosmopolitan areas for a while is that you become very sharply aware that Americans are terribly interested in change. They look at you. They listen very sharply to you, to see whether this mysterious thing of change has occurred and just what form it takes. Will you speak differently? Will you act differently? And they always are very glad when they can well he's grown up but he hasn't changed. I think that's part of the experience of all of us who have ever wandered back to the provinces.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2705.16"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-40.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And I think that this very concern with change becomes an indication of what has been missing in current American fiction. First, it's missed this many-layeredness, this variety and diversity of American life. It's missed this fluidity, which would allow, well, a man like Ralph Bunch, who was a grandson, I suppose, of a slave to become one of our most articulate spokesman. This is a very mysterious process and we realize how mysterious it is when we consider the fact that there are no institutions in the whole of Bunch's early life which can account for the formation of his personality. How did he become interested in certain ideas? How did he decide that he would prepare himself in such a way that he could perform a very tedious and complex diplomatic function. What I'm trying to get at it is that there is much of mystery in how ideas filter down in America, how they take hold, how personality is formed and so forth.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2754.38"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-41.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"In short, again, it's an unknown country. In short, again, it's an unknown country. The American image is still incomplete. The American reader knows this. He feels that there's something missing. And I think this is one reason that he has turned to reading nonfictional works more than he reads fiction. I think he wants answers to questions now. He feels change. He sees change around him and a certain degree of uncertainty has come back into relationships.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2858.81"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-42.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"I can remember walking during this spring when I was in NC into a certain room in which a woman became physically ill, not because she had anything against me. She was quite willing to have me there, but I violated something that had given her world stability for years and years and she could not stand this. Her will could not dominate the physical revulsion which this woman felt. In such a world there's uncertainty and the novel has a chance of living.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2899.03"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-43.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"And I shall say this in close. It's assumed that because the novel came into being during the 19th century, that it is the exclusive property of the middle class and because the middle class seems to be dying out, giving way to something else, it's assumed that the novel will die with it, but the novel grows out of this uncertainty. It is a form. It's the art of change, the art of time, the art of reality and illusion. This is its province and as things, and whenever there's crisis, and whenever there's social change, swiftness, acceleration of time, the novel has something to say. And we can certainly recognize that the world has not slowed down, but it has speeded up. It's whirling faster now than it ever did. And as long as it whirls, there's a possibility for the novel to live.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "2947.62"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-44.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"Our demand now, and I think that's what the younger American novelists are trying to do, is to take advantage of the technical discoveries of the earlier part of the twentieth century and to superimpose them upon the great variety and the swiftness, the changeability, the protean nature of American society. Out of this there can't help but come a new concept of the novel.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3014.33"
+        }
+      }
+    },
+    {
+      "@context": "http://www.w3.org/ns/anno.jsonld",
+      "id": "testing-ellison-canvas-1--annotation-45.json",
+      "type": "Annotation",
+      "motivation": [
+        "supplementing",
+        "commenting"
+      ],
+      "body": {
+        "type": "TextualBody",
+        "value": "\"It is the kind of novel, which will demand imagination, which Mr. Simeon said, will be willing to let sociology take care of sociology, philosophers take care of philosophy, and all of those disciplines which can be acquired through reading nonfiction. It will be a novel that will really try and deal with the wholeness of America. Now, I'm not trying to prescribe any sort of official art. I'm only trying to say that it is in this, in the willingness to try to deal with the whole that the magic will emerge and we will have a healthy fiction again.\"",
+        "format": "text/plain",
+        "purpose": "commenting"
+      },
+      "target": {
+        "source": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
+        "selector": {
+          "type": "PointSelector",
+          "t": "3050.05"
+        }
+      }
+    }
+  ]
+}

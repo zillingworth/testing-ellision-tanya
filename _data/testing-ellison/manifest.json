@@ -8,6 +8,16 @@
         "id": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/canvas",
         "type": "Canvas",
         "duration": 3050,
+        "annotations": [
+          
+          {
+            "type": "AnnotationPage",
+            "id": "https://zillingworth.github.io/testing-ellision-tanya/annotations/testing-ellison-canvas-1-.json",
+            "label": {
+              "none": [""]
+            }
+          }
+        ],
         "items": [
           {
             "id": "https://zillingworth.github.io/testing-ellision-tanya/testing-ellison/canvas-1/paintings",
